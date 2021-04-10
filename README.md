@@ -4,6 +4,8 @@
 
 ![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=jan-bar&show_icons=true&count_private=true)
 
+![Rainbow cat's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-bar&layout=compact)
+
 <!--
 **jan-bar/jan-bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
