@@ -6,6 +6,8 @@
 
 ![Rainbow cat's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-bar&layout=compact)
 
+[![My Skills](https://skillicons.dev/icons?i=go,github,docker,vscode,idea,jenkins,kubernetes,linux,lua,md,nginx,redis,regex)](https://skillicons.dev)
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!--
 **jan-bar/jan-bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
