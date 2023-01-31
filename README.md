@@ -8,6 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,github,docker,vscode,idea,jenkins,kubernetes,linux,lua,md,nginx,redis,regex)](https://skillicons.dev)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/jan-bar/jan-bar/output/github-contribution-grid-snake.svg)
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!--
 **jan-bar/jan-bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
