@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=jan-bar)
+![github jan-bar](https://count.getloli.com/get/@:janbar)
 
 ![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=jan-bar&show_icons=true&count_private=true)
 
