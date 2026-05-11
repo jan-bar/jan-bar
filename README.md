@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=jan-bar&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jan-bar&show_icons=true)
 
-![Rainbow cat's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-bar&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jan-bar)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jan-bar&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=go,git,github,githubactions,docker,vscode,idea,jenkins,kubernetes,linux,mysql,sqlite,lua,py,md,nginx,redis,regex,prometheus)](https://skillicons.dev)
 
